@@ -1,0 +1,3 @@
+2016-09-14 11:08:38,156 - root - INFO - Start training with [gpu(1)]
+2016-09-14 11:09:17,530 - root - INFO - Start training with [gpu(0)]
+2016-09-14 11:24:28,099 - root - INFO - Start training with [cpu(0)]
